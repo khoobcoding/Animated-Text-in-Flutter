@@ -1,3 +1,9 @@
+dependencies:
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  animated_text_kit: ^4.2.2  // add this package in your pubspec.yaml
+
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:flutter/material.dart';
 
